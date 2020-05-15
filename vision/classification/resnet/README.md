@@ -89,8 +89,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>484</td>
+      <td>205</td>
     </tr>
     <tr>
       <td>ResNet152</td>
@@ -98,8 +98,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>441</td>
+      <td>165</td>
     </tr>
   </tbody>
 </table>
