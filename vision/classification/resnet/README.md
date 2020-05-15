@@ -1,5 +1,5 @@
-|   | Download | CoreML Top-1 | CoreML Top-5 | Source | Source Top-1 | Source Top-5 | Conversion Diff |
-|---|----------|--------------|--------------|--------|--------------|--------------|-----------------|
+|   | Download | CoreML Top-1 | CoreML Top-5 | Source | Source Top-1 | Source Top-5 | Conversion Diff | Latency CPU | Latency GPU |
+|---|----------|--------------|--------------|--------|--------------|--------------|-----------------|-------------|-------------|
 | [ResNet18](https://arxiv.org/abs/1512.03385) | [45 MB](https://dl.dropboxusercontent.com/s/kb9cvlhq7napk0l/resnet18_torchvision.mlmodel?dl=0) | 69.75 | 89.08 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L232) | 69.76 | 89.08 | 0.0158 |
 | [ResNet34](https://arxiv.org/abs/1512.03385) | [83 MB](https://dl.dropboxusercontent.com/s/1mswx0g912emzov/resnet34_torchvision.mlmodel?dl=0) | 73.32 | 91.43 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L244) | 73.30 | 91.42 | 0.0193 |
 | [ResNet50](https://arxiv.org/abs/1512.03385) | [98 MB](https://dl.dropboxusercontent.com/s/s9hllnvbvxdp8j2/resnet50_torchvision.mlmodel?dl=0) | 76.11 | 92.87 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L256) | 76.15 | 92.87 | 0.0183 |
