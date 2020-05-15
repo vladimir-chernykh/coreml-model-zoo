@@ -71,8 +71,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>330</td>
+      <td>125</td>
     </tr>
     <tr>
       <td>ResNet101</td>
@@ -80,8 +80,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>310</td>
+      <td>135</td>
     </tr>
     <tr>
       <td>ResNet152</td>
