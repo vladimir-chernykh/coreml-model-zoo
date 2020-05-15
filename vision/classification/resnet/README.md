@@ -35,8 +35,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>78</td>
-      <td>56</td>
+      <td>80</td>
+      <td>58</td>
     </tr>
     <tr>
       <td>ResNet34</td>
@@ -54,7 +54,7 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>190</td>
-      <td>70</td>
+      <td>72</td>
     </tr>
     <tr>
       <td>ResNet50</td>
@@ -62,7 +62,7 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>188</td>
+      <td>170</td>
       <td>62</td>
     </tr>
     <tr>
