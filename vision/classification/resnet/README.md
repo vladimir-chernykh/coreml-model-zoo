@@ -53,8 +53,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
-      <td>200</td>
-      <td>72</td>
+      <td>190</td>
+      <td>70</td>
     </tr>
     <tr>
       <td>ResNet50</td>
