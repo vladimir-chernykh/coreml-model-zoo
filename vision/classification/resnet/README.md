@@ -15,71 +15,71 @@ Reference: https://arxiv.org/abs/1512.03385
   <tbody>
     <tr>
       <td rowspan=3></td>
-      <td rowspan=3 align="center">Size, MB</td>
-      <td colspan="5" align="center">Latency, ms</td>
+      <td rowspan=3 align="center"><b>Size, MB</b></td>
+      <td colspan="5" align="center"><b>Latency, ms</b></td>
     </tr>
     <tr>
-      <td colspan="3" align="center">iPhone 11 Pro</td>
-      <td colspan="2" align="center">iPhone 7</td>
+      <td colspan="3" align="center"><b>iPhone 11 Pro</b></td>
+      <td colspan="2" align="center"><b>iPhone 7</b></td>
     </tr>
     <tr>
-      <td>CPU</td>
-      <td>GPU</td>
-      <td>ANE</td>
-      <td>CPU</td>
-      <td>GPU</td>
+      <td><b>CPU</b></td>
+      <td><b>GPU</b></td>
+      <td><b>ANE</b></td>
+      <td><b>CPU</b></td>
+      <td><b>GPU</b></td>
     </tr>
     <tr>
       <td>ResNet18</td>
       <td>45</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>21</td>
+      <td>37</td>
+      <td>37</td>
       <td>80</td>
       <td>58</td>
     </tr>
     <tr>
       <td>ResNet34</td>
       <td>83</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>36</td>
+      <td>56</td>
+      <td>56</td>
       <td>150</td>
       <td>65</td>
     </tr>
     <tr>
       <td>ResNet50</td>
       <td>98</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>92</td>
+      <td>58</td>
+      <td>58</td>
       <td>190</td>
       <td>72</td>
     </tr>
     <tr>
       <td>ResNet50</td>
       <td>98</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>73</td>
+      <td>45</td>
+      <td>8</td>
       <td>170</td>
       <td>62</td>
     </tr>
     <tr>
       <td>ResNet101</td>
       <td>170</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>162</td>
+      <td>61</td>
+      <td>61</td>
       <td>330</td>
       <td>125</td>
     </tr>
     <tr>
       <td>ResNet101</td>
       <td>171</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>151</td>
+      <td>57</td>
+      <td>10</td>
       <td>310</td>
       <td>135</td>
     </tr>
