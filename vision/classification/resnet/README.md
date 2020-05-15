@@ -12,94 +12,94 @@ Reference: https://arxiv.org/abs/1512.03385
 | [ResNet152](https://dl.dropboxusercontent.com/s/wqzr2owu8i6498m/resnet152_keras_applications.mlmodel?dl=0) | - | - | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L463) | 76.60	| 93.12 | 0.0676 |
 
 <table>
-<tbody>
-<tr>
-<td rowspan=3></td>
-<td rowspan=3 align="center">Size</td>
-<td colspan="5" align="center">Latency</td>
-</tr>
-<tr>
-<td colspan="3" align="center">iPhone 11 Pro</td>
-<td colspan="2" align="center">iPhone 7</td>
-</tr>
-<tr>
-<td>&nbsp;CPU</td>
-<td>GPU</td>
-<td>ANE</td>
-<td>CPU</td>
-<td>GPU</td>
-</tr>
-<tr>
-<td>ResNet18</td>
-<td>45 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet34</td>
-<td>83 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet50</td>
-<td>98 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet50</td>
-<td>98 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet101</td>
-<td>170 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet101</td>
-<td>171 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet152</td>
-<td>230 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>ResNet152</td>
-<td>231 MB</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td rowspan=3></td>
+      <td rowspan=3 align="center">Size, MB</td>
+      <td colspan="5" align="center">Latency, ms</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center">iPhone 11 Pro</td>
+      <td colspan="2" align="center">iPhone 7</td>
+    </tr>
+    <tr>
+      <td>CPU</td>
+      <td>GPU</td>
+      <td>ANE</td>
+      <td>CPU</td>
+      <td>GPU</td>
+    </tr>
+    <tr>
+      <td>ResNet18</td>
+      <td>45</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>78</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>ResNet34</td>
+      <td>83</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>150</td>
+      <td>65</td>
+    </tr>
+    <tr>
+      <td>ResNet50</td>
+      <td>98</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>200</td>
+      <td>72</td>
+    </tr>
+    <tr>
+      <td>ResNet50</td>
+      <td>98</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>188</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td>ResNet101</td>
+      <td>170</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>ResNet101</td>
+      <td>171</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>ResNet152</td>
+      <td>230</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>ResNet152</td>
+      <td>231</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </tbody>
 </table>
