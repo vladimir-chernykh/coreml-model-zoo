@@ -14,8 +14,11 @@ Reference: https://arxiv.org/abs/1512.03385
 <table>
 <tbody>
 <tr>
-<td rowspan=2></td>
-<td rowspan=2 align="center">Size</td>
+<td rowspan=3></td>
+<td rowspan=3 align="center">Size</td>
+<td colspan="5" align="center">Latency</td>
+</tr>
+<tr>
 <td colspan="3" align="center">iPhone 11 Pro</td>
 <td colspan="2" align="center">iPhone 7</td>
 </tr>
