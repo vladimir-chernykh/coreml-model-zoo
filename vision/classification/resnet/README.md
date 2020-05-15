@@ -1,5 +1,5 @@
-|   | Download | CoreML Top-1 | CoreML Top-5 | Source | Source Top-1 | Source Top-5 | Conversion Diff | Latency CPU | Latency GPU | Latency ANE |
-|---|----------|--------------|--------------|--------|--------------|--------------|-----------------|-------------|-------------|-------------|
+|   | Download | CoreML Top-1 | CoreML Top-5 | Source | Source Top-1 | Source Top-5 | Conversion Diff |
+|---|----------|--------------|--------------|--------|--------------|--------------|-----------------|
 | [ResNet18](https://arxiv.org/abs/1512.03385) | [45 MB](https://dl.dropboxusercontent.com/s/kb9cvlhq7napk0l/resnet18_torchvision.mlmodel?dl=0) | 69.75 | 89.08 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L232) | 69.76 | 89.08 | 0.0158 |
 | [ResNet34](https://arxiv.org/abs/1512.03385) | [83 MB](https://dl.dropboxusercontent.com/s/1mswx0g912emzov/resnet34_torchvision.mlmodel?dl=0) | 73.32 | 91.43 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L244) | 73.30 | 91.42 | 0.0193 |
 | [ResNet50](https://arxiv.org/abs/1512.03385) | [98 MB](https://dl.dropboxusercontent.com/s/s9hllnvbvxdp8j2/resnet50_torchvision.mlmodel?dl=0) | 76.11 | 92.87 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L256) | 76.15 | 92.87 | 0.0183 |
@@ -8,3 +8,28 @@
 | [ResNet101](https://arxiv.org/abs/1512.03385) | [171 MB](https://dl.dropboxusercontent.com/s/h7vuy33pyqkvehq/resnet101_keras_applications.mlmodel?dl=0) | - | - | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L443) | 76.42	| 92.79 | 0.0413 |
 | [ResNet152](https://arxiv.org/abs/1512.03385) | [230 MB](https://dl.dropboxusercontent.com/s/krztu2psx1z7exx/resnet152_torchvision.mlmodel?dl=0) | - | - | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L280) | 78.31 | 94.06 | 0.0803 |
 | [ResNet152](https://arxiv.org/abs/1512.03385) | [231 MB](https://dl.dropboxusercontent.com/s/wqzr2owu8i6498m/resnet152_keras_applications.mlmodel?dl=0) | - | - | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L463) | 76.60	| 93.12 | 0.0676 |
+
+<table>
+<tbody>
+<tr>
+<td rowspan=2 ></td>
+<td colspan="3" align="center">iPhone 11 Pro</td>
+<td colspan="2" align="center">iPhone 7</td>
+</tr>
+<tr>
+<td>&nbsp;CPU</td>
+<td>GPU</td>
+<td>ANE</td>
+<td>CPU</td>
+<td>GPU</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
