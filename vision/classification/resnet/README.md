@@ -2,7 +2,7 @@ Reference: https://arxiv.org/abs/1512.03385
 
 |   | CoreML Top-1 | CoreML Top-5 | Source | Source Top-1 | Source Top-5 | Conversion Diff |
 |---|--------------|--------------|--------|--------------|--------------|-----------------|
-| [ResNet18](https://dl.dropboxusercontent.com/s/kb9cvlhq7napk0l/resnet18_torchvision.mlmodel?dl=0) | 69.75 | 89.08 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L232) | 69.76 | 89.08 | 9.9e-6 |
+| [ResNet18](https://dl.dropboxusercontent.com/s/kb9cvlhq7napk0l/resnet18_torchvision.mlmodel?dl=0) | 69.76 | 89.08 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L232) | 69.76 | 89.08 | 9.9e-6 |
 | [ResNet34](https://dl.dropboxusercontent.com/s/1mswx0g912emzov/resnet34_torchvision.mlmodel?dl=0) | 73.32 | 91.43 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L244) | 73.30 | 91.42 | 6.8e-6 |
 | [ResNet50](https://dl.dropboxusercontent.com/s/s9hllnvbvxdp8j2/resnet50_torchvision.mlmodel?dl=0) | 76.11 | 92.87 | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L256) | 76.15 | 92.87 | 5.2e-6 |
 | [ResNet50](https://dl.dropboxusercontent.com/s/h4rmfx72n9o1pvr/resnet50_keras_applications.mlmodel?dl=0) | 74.72 | 91.96 | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L423) | 74.93	| 92.06 | 4.6e-2 |
