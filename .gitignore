@@ -1,5 +1,7 @@
 # User-defined
 *.mlmodel
+.DS_Store
+.ipynb_checkpoints
 
 # Xcode
 #
