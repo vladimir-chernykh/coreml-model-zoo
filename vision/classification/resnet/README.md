@@ -80,7 +80,7 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>151</td>
       <td>55</td>
       <td>9</td>
-      <td>310</td>
+      <td>313</td>
       <td>135</td>
     </tr>
     <tr>
@@ -89,8 +89,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>216</td>
       <td>75</td>
       <td>14</td>
-      <td>484</td>
-      <td>205</td>
+      <td>490</td>
+      <td>204</td>
     </tr>
     <tr>
       <td>ResNet152</td>
