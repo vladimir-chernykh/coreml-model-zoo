@@ -32,36 +32,36 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td>ResNet18</td>
       <td>45</td>
-      <td>21</td>
-      <td>37</td>
-      <td>37</td>
+      <td>20</td>
+      <td>35</td>
+      <td>8</td>
       <td>80</td>
       <td>58</td>
     </tr>
     <tr>
       <td>ResNet34</td>
       <td>83</td>
-      <td>36</td>
-      <td>56</td>
-      <td>56</td>
+      <td>35</td>
+      <td>47</td>
+      <td>9</td>
       <td>150</td>
       <td>65</td>
     </tr>
     <tr>
       <td>ResNet50</td>
       <td>98</td>
-      <td>92</td>
-      <td>58</td>
-      <td>58</td>
+      <td>70</td>
+      <td>50</td>
+      <td>10</td>
       <td>190</td>
       <td>72</td>
     </tr>
     <tr>
       <td>ResNet50</td>
       <td>98</td>
-      <td>73</td>
+      <td>66</td>
       <td>45</td>
-      <td>8</td>
+      <td>9</td>
       <td>170</td>
       <td>62</td>
     </tr>
