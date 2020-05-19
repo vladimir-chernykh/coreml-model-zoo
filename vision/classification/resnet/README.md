@@ -86,18 +86,18 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td>ResNet152</td>
       <td>230</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>216</td>
+      <td>75</td>
+      <td>14</td>
       <td>484</td>
       <td>205</td>
     </tr>
     <tr>
       <td>ResNet152</td>
       <td>231</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td>214</td>
+      <td>73</td>
+      <td>12</td>
       <td>441</td>
       <td>165</td>
     </tr>
