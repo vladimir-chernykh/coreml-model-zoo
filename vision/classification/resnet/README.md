@@ -35,8 +35,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>20</td>
       <td>35</td>
       <td>8</td>
-      <td>80</td>
-      <td>58</td>
+      <td>78</td>
+      <td>49</td>
     </tr>
     <tr>
       <td>ResNet34</td>
@@ -45,7 +45,7 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>47</td>
       <td>9</td>
       <td>150</td>
-      <td>65</td>
+      <td>50</td>
     </tr>
     <tr>
       <td>ResNet50</td>
