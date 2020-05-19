@@ -71,8 +71,8 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>165</td>
       <td>58</td>
       <td>11</td>
-      <td>330</td>
-      <td>125</td>
+      <td>327</td>
+      <td>119</td>
     </tr>
     <tr>
       <td>ResNet101</td>
