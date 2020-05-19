@@ -68,18 +68,18 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td>ResNet101</td>
       <td>170</td>
-      <td>162</td>
-      <td>61</td>
-      <td>61</td>
+      <td>165</td>
+      <td>58</td>
+      <td>11</td>
       <td>330</td>
       <td>125</td>
     </tr>
     <tr>
       <td>ResNet101</td>
-      <td>171</td>
+      <td>165</td>
       <td>151</td>
-      <td>57</td>
-      <td>10</td>
+      <td>55</td>
+      <td>9</td>
       <td>310</td>
       <td>135</td>
     </tr>
