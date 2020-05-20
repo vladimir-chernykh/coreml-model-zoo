@@ -1,5 +1,6 @@
 # User-defined
 *.mlmodel
+*.metrics.json
 .DS_Store
 .ipynb_checkpoints
 
