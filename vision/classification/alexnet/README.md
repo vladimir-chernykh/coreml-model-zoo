@@ -1,4 +1,4 @@
-Reference: https://arxiv.org/abs/1512.03385
+Reference: https://arxiv.org/abs/1404.5997
 
 |   | CoreML Top-1 | CoreML Top-5 | Source | Source Top-1 | Source Top-5 | Conversion Diff |
 |---|--------------|--------------|--------|--------------|--------------|-----------------|
