@@ -8,8 +8,8 @@ Reference: https://arxiv.org/abs/1512.03385
 | [ResNet50](https://dl.dropboxusercontent.com/s/h4rmfx72n9o1pvr/resnet50_keras_applications.mlmodel?dl=0) | 74.73 (-0.20) | 91.95 (-0.11) | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L423) | 74.93	| 92.06 | 8.5e-6 |
 | [ResNet101](https://dl.dropboxusercontent.com/s/xuwfhjeinndmyh2/resnet101_torchvision.mlmodel?dl=0) | 77.37 (+0.00) | 93.55 (-0.01) | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L268) | 77.37 | 93.56 | 9.4e-6 |
 | [ResNet101](https://dl.dropboxusercontent.com/s/h7vuy33pyqkvehq/resnet101_keras_applications.mlmodel?dl=0) | 76.18 (-0.24) | 92.58 (-0.21) | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L443) | 76.42	| 92.79 | 1.0e-5 |
-| [ResNet152](https://dl.dropboxusercontent.com/s/krztu2psx1z7exx/resnet152_torchvision.mlmodel?dl=0) | - | - | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L280) | 78.31 | 94.06 | 3.9e-6 |
-| [ResNet152](https://dl.dropboxusercontent.com/s/wqzr2owu8i6498m/resnet152_keras_applications.mlmodel?dl=0) | - | - | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L463) | 76.60	| 93.12 | 8.6e-6 |
+| [ResNet152](https://dl.dropboxusercontent.com/s/krztu2psx1z7exx/resnet152_torchvision.mlmodel?dl=0) | 78.31 (+0.00) | 94.05 (-0.01) | [PyTorch](https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L280) | 78.31 | 94.06 | 3.9e-6 |
+| [ResNet152](https://dl.dropboxusercontent.com/s/wqzr2owu8i6498m/resnet152_keras_applications.mlmodel?dl=0) | 76.40 (-0.20) | 92.92 (-0.20) | [Keras](https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L463) | 76.60	| 93.12 | 8.6e-6 |
 
 <table>
   <tbody>
