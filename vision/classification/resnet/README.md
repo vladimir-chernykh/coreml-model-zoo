@@ -16,6 +16,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td rowspan=3></td>
       <td rowspan=3 align="center"><b>Source</b></td>
+      <td rowspan=3 align="center"><b>Size, MB</b></td>
       <td rowspan=3 align="center"><b>Conversion Diff</b></td>
       <td colspan="4" align="center"><b>Quality: Accuracy, %</b></td>
       <td colspan="5" align="center"><b>Latency, ms</b></td>
@@ -40,6 +41,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/kb9cvlhq7napk0l/resnet18_torchvision.mlmodel?dl=0">ResNet18</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L232">PyTorch</a></td>
+      <td>45</td>
       <td>9.9e-6</td>
       <td>69.76</td>
       <td>89.08</td>
@@ -54,6 +56,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/1mswx0g912emzov/resnet34_torchvision.mlmodel?dl=0">ResNet34</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L244">PyTorch</a></td>
+      <td>83</td>
       <td>6.8e-6</td>
       <td>73.32</td>
       <td>91.42</td>
@@ -68,6 +71,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/s9hllnvbvxdp8j2/resnet50_torchvision.mlmodel?dl=0">ResNet50</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L256">PyTorch</a></td>
+      <td>98</td>
       <td>5.2e-6</td>
       <td>76.13</td>
       <td>92.86</td>
@@ -82,6 +86,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/h4rmfx72n9o1pvr/resnet50_keras_applications.mlmodel?dl=0">ResNet50</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L423">Keras</a></td>
+      <td>98</td>
       <td>8.5e-6</td>
       <td>74.73</td>
       <td>91.95</td>
@@ -96,6 +101,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/xuwfhjeinndmyh2/resnet101_torchvision.mlmodel?dl=0">ResNet101</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L268">PyTorch</a></td>
+      <td>170</td>
       <td>9.4e-6</td>
       <td>77.37</td>
       <td>93.55</td>
@@ -110,6 +116,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/h7vuy33pyqkvehq/resnet101_keras_applications.mlmodel?dl=0">ResNet101</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L443">Keras</a></td>
+      <td>165</td>
       <td>1.0e-5</td>
       <td>76.18</td>
       <td>92.58</td>
@@ -124,6 +131,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/krztu2psx1z7exx/resnet152_torchvision.mlmodel?dl=0">ResNet152</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/resnet.py#L280">PyTorch</a></td>
+      <td>230</td>
       <td>3.9e-6</td>
       <td>78.31</td>
       <td>94.05</td>
@@ -138,6 +146,7 @@ Reference: https://arxiv.org/abs/1512.03385
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/wqzr2owu8i6498m/resnet152_keras_applications.mlmodel?dl=0">ResNet152</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/resnet_common.py#L463">Keras</a></td>
+      <td>231</td>
       <td>8.6e-6</td>
       <td>76.40</td>
       <td>92.92</td>
