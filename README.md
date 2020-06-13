@@ -7,6 +7,11 @@ All the models in the repo:
 * are intended mainly for **inference**
 * are **optimized** for mobile devices
 
+Below there are few sections:
+* [**Format**](#format) describes the details about the models
+* **Available Models** lists all the models currently supported
+* **Usage** gives examples/links/information on how to use the models
+
 # Format
 
 iOS (11.0+), macOS (10.13+), tvOS (11.0+), watchOS (4.0+)
@@ -15,8 +20,6 @@ While the specified versions are the minimum required versions to be able to run
 # Available Models
 
 # Usage
-
-# Quantization
 
 # Targets
 - [ ] Model Zoo
