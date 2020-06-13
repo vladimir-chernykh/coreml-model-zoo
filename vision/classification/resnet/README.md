@@ -6,9 +6,9 @@ Reference: https://arxiv.org/abs/1512.03385
       <td rowspan=3></td>
       <td rowspan=3 align="center"><b>Source</b></td>
       <td rowspan=3 align="center"><b>Size, MB</b></td>
-      <td colspan="4" align="center"><b>Quality: Accuracy, %</b></td>
-      <td rowspan=3 align="center"></td>
-      <td colspan="5" align="center"><b>Latency, ms</b></td>
+      <td colspan=4 align="center"><b>Quality: Accuracy, %</b></td>
+      <td rowspan=11 align="center"></td>
+      <td colspan=5 align="center"><b>Latency, ms</b></td>
     </tr>
     <tr>
       <td colspan="2" align="center"><b>CoreML</b></td>
@@ -35,7 +35,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>89.08</td>
       <td>69.76</td>
       <td>89.08</td>
-      <td></td>
       <td>20</td>
       <td>35</td>
       <td>8</td>
@@ -50,7 +49,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>91.42</td>
       <td>73.30</td>
       <td>91.42</td>
-      <td></td>
       <td>35</td>
       <td>47</td>
       <td>9</td>
@@ -65,7 +63,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>92.86</td>
       <td>76.15</td>
       <td>92.87</td>
-      <td></td>
       <td>70</td>
       <td>50</td>
       <td>10</td>
@@ -80,7 +77,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>91.95</td>
       <td>74.93</td>
       <td>92.06</td>
-      <td></td>
       <td>66</td>
       <td>45</td>
       <td>9</td>
@@ -95,7 +91,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>93.55</td>
       <td>77.37</td>
       <td>93.56</td>
-      <td></td>
       <td>165</td>
       <td>58</td>
       <td>11</td>
@@ -110,7 +105,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>92.58</td>
       <td>76.42</td>
       <td>92.79</td>
-      <td></td>
       <td>151</td>
       <td>55</td>
       <td>9</td>
@@ -125,7 +119,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>94.05</td>
       <td>78.31</td>
       <td>94.06</td>
-      <td></td>
       <td>216</td>
       <td>75</td>
       <td>14</td>
@@ -140,7 +133,6 @@ Reference: https://arxiv.org/abs/1512.03385
       <td>92.92</td>
       <td>76.60</td>
       <td>93.12</td>
-      <td></td>
       <td>214</td>
       <td>73</td>
       <td>12</td>
