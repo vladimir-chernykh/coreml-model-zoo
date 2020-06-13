@@ -6,7 +6,7 @@ Reference: https://arxiv.org/abs/1512.03385
       <td rowspan=3></td>
       <td rowspan=3 align="center"><b>Source</b></td>
       <td rowspan=3 align="center"><b>Size, MB</b></td>
-      <td rowspan=3 align="center" width=5px></td>
+      <td rowspan=3 align="center" width=500px></td>
       <td colspan="4" align="center"><b>Quality: Accuracy, %</b></td>
       <td rowspan=3 align="center"></td>
       <td colspan="5" align="center"><b>Latency, ms</b></td>
