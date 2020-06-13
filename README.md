@@ -1,6 +1,6 @@
 # CoreML Model Zoo
 
-This is a collection of **Machine Learning models** converted into the [**CoreML**](https://developer.apple.com/documentation/coreml) framework. These models can run on Apple devices under one of the following operating systems: **iOS, macOS, tvOS, watchOS**.
+This is a collection of **Machine Learning models** converted into the [**CoreML**](https://developer.apple.com/documentation/coreml) framework. These models can run on Apple devices under one of the following operating systems: **iOS**, **macOS**, **tvOS**, **watchOS**.
 
 All the models in the repo:
 * have **pre-trained** weights
