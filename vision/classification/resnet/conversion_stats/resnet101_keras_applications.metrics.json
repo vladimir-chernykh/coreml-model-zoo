@@ -1,1 +1,11 @@
-{"absolute_max": 4.0531158447265625e-06, "absolute_99q": 3.2603275030851517e-08, "absolute_median": 5.6132876125047915e-12, "absolute_mean": 3.0055731237155214e-09, "relative_max": 4.7730616643093526e-05, "relative_99q": 3.2877689700399064e-05, "relative_median": 1.0035346349468455e-05, "relative_mean": 1.1946731319767423e-05, "percentage_not_equal": 0.0}
+{
+  "absolute_max": 4.0531158447265625e-06,
+  "absolute_99q": 3.2603275030851517e-08,
+  "absolute_median": 5.6132876125047915e-12,
+  "absolute_mean": 3.0055731237155214e-09,
+  "relative_max": 4.7730616643093526e-05,
+  "relative_99q": 3.2877689700399064e-05,
+  "relative_median": 1.0035346349468455e-05,
+  "relative_mean": 1.1946731319767423e-05,
+  "percentage_not_equal": 0.0
+}

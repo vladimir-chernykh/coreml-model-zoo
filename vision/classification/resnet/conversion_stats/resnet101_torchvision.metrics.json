@@ -1,1 +1,11 @@
-{"absolute_max": 4.947185516357422e-06, "absolute_99q": 1.6537960618734512e-08, "absolute_median": 2.3803181647963356e-12, "absolute_mean": 3.4992833075619956e-09, "relative_max": 4.270379577064887e-05, "relative_99q": 3.250676763855156e-05, "relative_median": 9.428258636035025e-06, "relative_mean": 1.1020268175343517e-05, "percentage_not_equal": 0.0}
+{
+  "absolute_max": 4.947185516357422e-06,
+  "absolute_99q": 1.6537960618734512e-08,
+  "absolute_median": 2.3803181647963356e-12,
+  "absolute_mean": 3.4992833075619956e-09,
+  "relative_max": 4.270379577064887e-05,
+  "relative_99q": 3.250676763855156e-05,
+  "relative_median": 9.428258636035025e-06,
+  "relative_mean": 1.1020268175343517e-05,
+  "percentage_not_equal": 0.0
+}
