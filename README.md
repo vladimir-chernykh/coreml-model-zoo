@@ -9,8 +9,8 @@ All the models in the repo:
 
 Below there are few sections:
 * [**Format**](#format) describes the details about the models
-* **Available Models** lists all the models currently supported
-* **Usage** gives examples/links/information on how to use the models
+* [**Available Models**](#available-models) lists all the models currently supported
+* [**Usage**](#usage) gives examples/links/information on how to use the models
 
 # Format
 
