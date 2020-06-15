@@ -15,7 +15,7 @@ Below there are few sections:
 # Format
 
 iOS (11.0+), macOS (10.13+), tvOS (11.0+), watchOS (4.0+)
-While the specified versions are the minimum required versions to be able to run CoreML models at all, I highly recommend using the latest available OS version. Otherwise, some of the models might run much slower or might even fail to run if they require some of the new features.
+While the specified versions are the minimum required versions to be able to run CoreML models at all, it iss highly recommended to use the latest available OS version. Otherwise, some of the models might run much slower or might even fail to run if they require some of the new features.
 
 # Available Models
 
