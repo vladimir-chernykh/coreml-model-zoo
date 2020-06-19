@@ -1,13 +1,3 @@
-Reference: https://arxiv.org/abs/1512.03385
-
-Inputs:
-* **224x224**
-* **3-channel RGB**
-* **[0-255] pixel** range
-
-Dataset:
-* [ImageNet1k](http://www.image-net.org/challenges/LSVRC/)
-
 <table>
   <tbody>
     <tr>
@@ -149,6 +139,16 @@ Dataset:
     </tr>
   </tbody>
 </table>
+
+Reference: https://arxiv.org/abs/1512.03385
+
+Inputs:
+* **224x224**
+* **3-channel RGB**
+* **[0-255] pixel** range
+
+Dataset:
+* [ImageNet1k](http://www.image-net.org/challenges/LSVRC/)
 
 Versions:
 * iOS 13.5.1
