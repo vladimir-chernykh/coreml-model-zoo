@@ -1,8 +1,20 @@
 Reference: https://arxiv.org/abs/1512.03385
 
-iOS version: 13.5.1
+Versions:
+* iOS 13.5.1
+* XCode 11.5
 
-XCode version: 11.5
+Inputs:
+* **224x224**
+* **3-channel RGB**
+* **[0-255] pixel** range
+
+Dataset:
+* [ImageNet1k](http://www.image-net.org/challenges/LSVRC/)
+
+Validation preprocessing:
+* Resize to 256 max side while preserving aspect ratio
+* Central crop of 224x224 region
 
 <table>
   <tbody>
