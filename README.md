@@ -37,6 +37,7 @@ All the necessary **preprocessing** steps are already **embedded** into the mode
 
 | Model | Reference | Year |
 |-------|-----------|------|
+| [AlexNet](./vision/classification/alexnet) | ["One weird trick for parallelizing convolutional neural networks"](https://arxiv.org/abs/1404.5997) | 2014 |
 | [ResNetV1](./vision/classification/resnet_v1) | ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) | 2015 |
 
 # Usage
