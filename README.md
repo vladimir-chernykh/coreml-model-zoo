@@ -17,6 +17,12 @@ All models should be run on one of the following systems: iOS (11.0+), macOS (10
 
 Currently only **Computer Vision** models are presented. In future, Natural Language Processing and Speech Processing models might be ported as well and any contribution is welcomed.
 
+Each model has:
+* Model file in the format of **\*.mlmodel**
+* Model **size**.
+* **Quality metrics** both for source and converted versions
+* **Performance metrics** such as latency/RPS for different mobile devices (iPhone 7, iPhone 11 Pro) and accelerators (CPU, GPU, ANE).
+
 ## Computer Vision models
 
 All the Computer Vision models are placed under [`vision`](./vision) folder and are split by problem they are solving.
