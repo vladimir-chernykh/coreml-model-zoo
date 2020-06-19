@@ -25,6 +25,8 @@ All the Computer Vision models are placed under [`vision`](./vision) folder and 
 * **3-channel RGB**
 * **[0-255] pixel** range
 
+All the necessary **preprocessing** steps are already **embedded** into the model so that the user should not worry about that.
+
 ### Classification
 
 | Model | Reference | Year |
