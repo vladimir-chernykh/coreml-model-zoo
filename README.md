@@ -19,9 +19,9 @@ Currently only **Computer Vision** models are presented. In future, Natural Lang
 
 Each model has:
 * Model file in the format of **\*.mlmodel**
-* Model **size**.
+* Model **size**
 * **Quality metrics** both for source and converted versions
-* **Performance metrics** such as latency/RPS for different mobile devices (iPhone 7, iPhone 11 Pro) and accelerators (CPU, GPU, ANE).
+* **Performance metrics** such as latency/RPS for different mobile devices (iPhone 7, iPhone 11 Pro) and accelerators (CPU, GPU, ANE)
 
 ## Computer Vision models
 
