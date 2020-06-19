@@ -19,6 +19,18 @@ Currently only **Computer Vision** models are presented. In future, Natural Lang
 
 ## Computer Vision models
 
+All the Computer Vision models are placed under [`vision`](./vision) folder and are split by problem they are solving.
+
+**Inputs** to all the models are **unified**:
+* **3-channel RGB**
+* **[0-255] pixel** range
+
+### Classification
+
+| Model | Reference | Year |
+|-------|-----------|------|
+| [ResNetV1](./vision/classification/resnet_v1) | ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) | 2015 |
+
 # Usage
 
 # Targets
