@@ -8,16 +8,16 @@ All the models in the repo:
 * are **optimized** for mobile devices
 
 Below there are few sections:
-* [**Format**](#format) describes the details about the models
-* [**Available Models**](#available-models) lists all the models currently supported
+* [**Format and Available Models**](#format-and-available-models) describes all the models available and details about them
 * [**Usage**](#usage) gives examples/links/information on how to use the models
 
-# Format
+# Format and Available models
 
-iOS (11.0+), macOS (10.13+), tvOS (11.0+), watchOS (4.0+)
-While the specified versions are the minimum required versions to be able to run CoreML models at all, it iss highly recommended to use the latest available OS version. Otherwise, some of the models might run much slower or might even fail to run if they require some of the new features.
+All models should be run on one of the following systems: iOS (11.0+), macOS (10.13+), tvOS (11.0+), watchOS (4.0+). While the specified versions are the minimum required versions to be able to run CoreML models at all, it is highly recommended to use the **latest available OS version**. Otherwise, some of the models might run much slower or might even fail to run if they require some of the new features.
 
-# Available Models
+Currently only **Computer Vision** models are presented. In future, Natural Language Processing and Speech Processing models might be ported as well and any contribution is welcomed.
+
+## Computer Vision models
 
 # Usage
 
