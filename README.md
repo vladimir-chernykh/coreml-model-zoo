@@ -45,6 +45,9 @@ All the necessary **preprocessing** steps are already **embedded** into the mode
 The easiest way to run the Coputer Vision models on device is to use [**Apple Vision**](https://developer.apple.com/documentation/vision) library and auto-generated code for the **\*.mlmodel** file. Below is an example for [`resnet18_v1_torchvision`](./vision/classification/resnet_v1) model (see [this tutorial](https://developer.apple.com/documentation/vision/classifying_images_with_vision_and_core_ml) for more). Note that there is no error processing in this example which should be a must-have in real application.
 
 ```swift
+import Vision
+import CoreImage
+
 let model = try VNCoreMLModel(for: resnet18_v1_torchvision().model)
 
 let request = VNCoreMLRequest(model: model)
