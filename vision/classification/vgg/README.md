@@ -40,7 +40,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG11_BN</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/7u0rtbyn3n3qmq9/vgg11_bn_torchvision.mlmodel?dl=0">VGG11_BN</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L109">PyTorch</a></td>
       <td>507</td>
       <td>-</td>
@@ -54,7 +54,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG13</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/wr96cjsaurqoeba/vgg13_torchvision.mlmodel?dl=0">VGG13</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L120">PyTorch</a></td>
       <td>508</td>
       <td>-</td>
@@ -68,7 +68,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG13_BN</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/e7et32lwud9rl00/vgg13_bn_torchvision.mlmodel?dl=0">VGG13_BN</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L131">PyTorch</a></td>
       <td>508</td>
       <td>-</td>
@@ -82,7 +82,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG16</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/d683869rozhj29p/vgg16_torchvision.mlmodel?dl=0">VGG16</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L142">PyTorch</a></td>
       <td>528</td>
       <td>-</td>
@@ -96,7 +96,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG16_BN</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/x6vn92nfs26rj21/vgg16_bn_torchvision.mlmodel?dl=0">VGG16_BN</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L153">PyTorch</a></td>
       <td>528</td>
       <td>-</td>
@@ -110,7 +110,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG19</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/x3s5m4ac7abe8n1/vgg19_torchvision.mlmodel?dl=0">VGG19</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L164">PyTorch</a></td>
       <td>548</td>
       <td>-</td>
@@ -124,7 +124,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">VGG19_BN</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/wbhx0ndh5vwk1tj/vgg19_bn_torchvision.mlmodel?dl=0">VGG19_BN</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L175">PyTorch</a></td>
       <td>548</td>
       <td>-</td>
