@@ -36,8 +36,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>43</td>
+      <td>34</td>
     </tr>
   </tbody>
 </table>
