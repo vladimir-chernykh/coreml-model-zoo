@@ -78,8 +78,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>290</td>
+      <td>116</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/d683869rozhj29p/vgg16_torchvision.mlmodel?dl=0">VGG16</a></td>
