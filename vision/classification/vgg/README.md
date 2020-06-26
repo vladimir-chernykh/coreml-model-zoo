@@ -120,8 +120,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>506</td>
+      <td>208</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/wbhx0ndh5vwk1tj/vgg19_bn_torchvision.mlmodel?dl=0">VGG19_BN</a></td>
