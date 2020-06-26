@@ -33,9 +33,9 @@
       <td>-</td>
       <td>69.02</td>
       <td>88.63</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>55</td>
+      <td>61</td>
+      <td>19</td>
       <td>175</td>
       <td>93</td>
     </tr>
@@ -47,9 +47,9 @@
       <td>-</td>
       <td>70.38</td>
       <td>89.81</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>57</td>
+      <td>61</td>
+      <td>20</td>
       <td>180</td>
       <td>86</td>
     </tr>
