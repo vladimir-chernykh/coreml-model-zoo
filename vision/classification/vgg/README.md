@@ -134,8 +134,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>502</td>
+      <td>199</td>
     </tr>
   </tbody>
 </table>
