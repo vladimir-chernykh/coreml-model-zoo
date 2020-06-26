@@ -103,9 +103,9 @@
       <td>-</td>
       <td>73.37</td>
       <td>91.50</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>98</td>
+      <td>86</td>
+      <td>23</td>
       <td>381</td>
       <td>153</td>
     </tr>
