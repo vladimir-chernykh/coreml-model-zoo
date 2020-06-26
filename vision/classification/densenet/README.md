@@ -40,9 +40,9 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">DenseNet121</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/wj9i9f8ki9d3c69/densenet121_keras_applications.mlmodel?dl=0">DenseNet121</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/densenet.py#L300">Keras</a></td>
-      <td>-</td>
+      <td>31</td>
       <td>-</td>
       <td>-</td>
       <td>75.00</td>
@@ -82,9 +82,9 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">DenseNet169</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/siiwu6pbhy4m3td/densenet169_keras_applications.mlmodel?dl=0">DenseNet169</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/densenet.py#L314">Keras</a></td>
-      <td>-</td>
+      <td>55</td>
       <td>-</td>
       <td>-</td>
       <td>76.20</td>
@@ -110,9 +110,9 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="">DenseNet201</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/9fxmcibsogbiq8d/densenet201_keras_applications.mlmodel?dl=0">DenseNet201</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/densenet.py#L328">Keras</a></td>
-      <td>-</td>
+      <td>77</td>
       <td>-</td>
       <td>-</td>
       <td>77.30</td>
