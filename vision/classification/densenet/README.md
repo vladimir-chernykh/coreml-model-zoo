@@ -26,23 +26,65 @@
       <td><b>GPU</b></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/b13lpwfbiocvjnq/alexnet_torchvision.mlmodel?dl=0">AlexNet</a></td>
-      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/alexnet.py#L52">PyTorch</a></td>
-      <td>241</td>
+      <td><a href="https://dl.dropboxusercontent.com/s/7qw5bk4d9h8cmoh/densenet121_torchvision.mlmodel?dl=0">DenseNet121</a></td>
+      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L226">PyTorch</a></td>
+      <td>31</td>
       <td>-</td>
       <td>-</td>
-      <td>56.55</td>
-      <td>79.09</td>
+      <td>74.65</td>
+      <td>92.17</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>43</td>
-      <td>34</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/hdlqx78i2m58k53/densenet161_torchvision.mlmodel?dl=0">DenseNet161</a></td>
+      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L240">PyTorch</a></td>
+      <td>110</td>
+      <td>-</td>
+      <td>-</td>
+      <td>77.65</td>
+      <td>93.80</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/fs7h8zlkr57mrs5/densenet169_torchvision.mlmodel?dl=0">DenseNet169</a></td>
+      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L254">PyTorch</a></td>
+      <td>55</td>
+      <td>-</td>
+      <td>-</td>
+      <td>76.00</td>
+      <td>93.00</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/vg2wcibplqsqctu/densenet201_torchvision.mlmodel?dl=0">DenseNet201</a></td>
+      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L268">PyTorch</a></td>
+      <td>77</td>
+      <td>-</td>
+      <td>-</td>
+      <td>77.20</td>
+      <td>93.57</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
 
-Reference: https://arxiv.org/abs/1404.5997
+Reference: https://arxiv.org/abs/1608.06993
 
 Inputs:
 * **224x224**
