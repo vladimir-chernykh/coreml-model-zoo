@@ -61,9 +61,9 @@
       <td>-</td>
       <td>77.65</td>
       <td>93.80</td>
-      <td>223</td>
-      <td>198</td>
-      <td>45</td>
+      <td>195</td>
+      <td>74</td>
+      <td>16</td>
       <td>-</td>
       <td>-</td>
     </tr>
@@ -75,9 +75,9 @@
       <td>-</td>
       <td>76.00</td>
       <td>93.00</td>
-      <td>84</td>
-      <td>112</td>
-      <td>28</td>
+      <td>92</td>
+      <td>62</td>
+      <td>10</td>
       <td>-</td>
       <td>-</td>
     </tr>
@@ -103,9 +103,9 @@
       <td>-</td>
       <td>77.20</td>
       <td>93.57</td>
-      <td>128</td>
-      <td>147</td>
-      <td>32</td>
+      <td>132</td>
+      <td>65</td>
+      <td>14</td>
       <td>-</td>
       <td>-</td>
     </tr>
@@ -119,7 +119,7 @@
       <td>93.60</td>
       <td>129</td>
       <td>61</td>
-      <td>9</td>
+      <td>10</td>
       <td>-</td>
       <td>-</td>
     </tr>
