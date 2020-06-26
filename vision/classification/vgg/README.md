@@ -148,8 +148,8 @@
       <td>144</td>
       <td>114</td>
       <td>24</td>
-      <td>-</td>
-      <td>-</td>
+      <td>529</td>
+      <td>222</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/wbhx0ndh5vwk1tj/vgg19_bn_torchvision.mlmodel?dl=0">VGG19_BN</a></td>
