@@ -40,6 +40,20 @@
       <td>-</td>
     </tr>
     <tr>
+      <td><a href="">DenseNet121</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/densenet.py#L300">Keras</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>75.00</td>
+      <td>92.30</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/hdlqx78i2m58k53/densenet161_torchvision.mlmodel?dl=0">DenseNet161</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L240">PyTorch</a></td>
       <td>110</td>
@@ -68,6 +82,20 @@
       <td>-</td>
     </tr>
     <tr>
+      <td><a href="">DenseNet169</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/densenet.py#L314">Keras</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>76.20</td>
+      <td>93.20</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/vg2wcibplqsqctu/densenet201_torchvision.mlmodel?dl=0">DenseNet201</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L268">PyTorch</a></td>
       <td>77</td>
@@ -75,6 +103,20 @@
       <td>-</td>
       <td>77.20</td>
       <td>93.57</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="">DenseNet201</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/densenet.py#L328">Keras</a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>77.30</td>
+      <td>93.60</td>
       <td>-</td>
       <td>-</td>
       <td>-</td>
