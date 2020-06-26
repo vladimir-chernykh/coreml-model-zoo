@@ -96,6 +96,20 @@
       <td>149</td>
     </tr>
     <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/xxg5iq7vi8zp80q/vgg16_keras_applications.mlmodel?dl=0">VGG16</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/vgg16.py#L30">Keras</a></td>
+      <td>528</td>
+      <td>-</td>
+      <td>-</td>
+      <td>71.30</td>
+      <td>90.10</td>
+      <td>120</td>
+      <td>93</td>
+      <td>22</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/x6vn92nfs26rj21/vgg16_bn_torchvision.mlmodel?dl=0">VGG16_BN</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/vgg.py#L153">PyTorch</a></td>
       <td>528</td>
@@ -122,6 +136,20 @@
       <td>24</td>
       <td>506</td>
       <td>208</td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/pobrzryw8cgzuo5/vgg19_keras_applications.mlmodel?dl=0">VGG19</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/vgg19.py#L30">Keras</a></td>
+      <td>548</td>
+      <td>-</td>
+      <td>-</td>
+      <td>71.30</td>
+      <td>90.00</td>
+      <td>144</td>
+      <td>114</td>
+      <td>24</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/wbhx0ndh5vwk1tj/vgg19_bn_torchvision.mlmodel?dl=0">VGG19_BN</a></td>
