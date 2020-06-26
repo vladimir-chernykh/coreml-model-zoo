@@ -36,8 +36,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>175</td>
+      <td>93</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/7u0rtbyn3n3qmq9/vgg11_bn_torchvision.mlmodel?dl=0">VGG11_BN</a></td>
@@ -50,8 +50,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>180</td>
+      <td>86</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/wr96cjsaurqoeba/vgg13_torchvision.mlmodel?dl=0">VGG13</a></td>
