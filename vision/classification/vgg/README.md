@@ -64,8 +64,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>302</td>
+      <td>122</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/e7et32lwud9rl00/vgg13_bn_torchvision.mlmodel?dl=0">VGG13_BN</a></td>
