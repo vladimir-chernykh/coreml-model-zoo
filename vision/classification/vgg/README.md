@@ -92,8 +92,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>370</td>
+      <td>149</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/x6vn92nfs26rj21/vgg16_bn_torchvision.mlmodel?dl=0">VGG16_BN</a></td>
