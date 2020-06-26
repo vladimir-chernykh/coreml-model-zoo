@@ -50,8 +50,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>150</td>
+      <td>74</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/hdlqx78i2m58k53/densenet161_torchvision.mlmodel?dl=0">DenseNet161</a></td>
