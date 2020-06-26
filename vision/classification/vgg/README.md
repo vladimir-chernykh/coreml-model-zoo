@@ -106,8 +106,8 @@
       <td>-</td>
       <td>-</td>
       <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>381</td>
+      <td>153</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/x3s5m4ac7abe8n1/vgg19_torchvision.mlmodel?dl=0">VGG19</a></td>
