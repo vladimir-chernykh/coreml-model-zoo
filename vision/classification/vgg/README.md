@@ -89,9 +89,9 @@
       <td>-</td>
       <td>71.59</td>
       <td>90.38</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>116</td>
+      <td>87</td>
+      <td>23</td>
       <td>370</td>
       <td>149</td>
     </tr>
