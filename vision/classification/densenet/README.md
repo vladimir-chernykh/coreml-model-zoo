@@ -26,7 +26,7 @@
       <td><b>GPU</b></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/7qw5bk4d9h8cmoh/densenet121_torchvision.mlmodel?dl=0">DenseNet121</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/knqjsvn72szjunq/densenet121_torchvision.mlmodel?dl=0">DenseNet121</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L226">PyTorch</a></td>
       <td>31</td>
       <td>-</td>
@@ -54,7 +54,7 @@
       <td>74</td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/hdlqx78i2m58k53/densenet161_torchvision.mlmodel?dl=0">DenseNet161</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/2p7k1u5n8a4upst/densenet161_torchvision.mlmodel?dl=0">DenseNet161</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L240">PyTorch</a></td>
       <td>110</td>
       <td>-</td>
@@ -68,7 +68,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/fs7h8zlkr57mrs5/densenet169_torchvision.mlmodel?dl=0">DenseNet169</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/grs1l8j06mza2pk/densenet169_torchvision.mlmodel?dl=0">DenseNet169</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L254">PyTorch</a></td>
       <td>55</td>
       <td>-</td>
@@ -96,7 +96,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/vg2wcibplqsqctu/densenet201_torchvision.mlmodel?dl=0">DenseNet201</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/sz6eo05n5drrhvv/densenet201_torchvision.mlmodel?dl=0">DenseNet201</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/densenet.py#L268">PyTorch</a></td>
       <td>77</td>
       <td>-</td>
