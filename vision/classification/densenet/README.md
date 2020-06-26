@@ -75,9 +75,9 @@
       <td>-</td>
       <td>76.00</td>
       <td>93.00</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td>84</td>
+      <td>112</td>
+      <td>28</td>
       <td>-</td>
       <td>-</td>
     </tr>
