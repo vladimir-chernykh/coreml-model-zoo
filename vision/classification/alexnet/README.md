@@ -29,13 +29,13 @@
       <td><a href="https://dl.dropboxusercontent.com/s/b13lpwfbiocvjnq/alexnet_torchvision.mlmodel?dl=0">AlexNet</a></td>
       <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/alexnet.py#L52">PyTorch</a></td>
       <td>241</td>
-      <td>-</td>
-      <td>-</td>
+      <td></td>
+      <td></td>
       <td>56.55</td>
       <td>79.09</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>43</td>
       <td>34</td>
     </tr>
