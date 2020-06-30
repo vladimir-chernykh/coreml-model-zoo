@@ -33,9 +33,9 @@
       <td></td>
       <td>56.55</td>
       <td>79.09</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>20</td>
+      <td>-</td>
       <td>43</td>
       <td>34</td>
     </tr>
