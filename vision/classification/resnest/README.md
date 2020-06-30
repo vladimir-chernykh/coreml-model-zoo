@@ -26,23 +26,23 @@
       <td><b>GPU</b></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/b13lpwfbiocvjnq/alexnet_torchvision.mlmodel?dl=0">AlexNet</a></td>
-      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/alexnet.py#L52">PyTorch</a></td>
-      <td>241</td>
+      <td><a href="https://dl.dropboxusercontent.com/s/8k33evt5b2nhp5o/resnest50_torch.mlmodel?dl=0">ResNeSt50</a></td>
+      <td><a href="https://github.com/zhanghang1989/ResNeSt/blob/5fe47e93bd7e098d15bc278d8ab4812b82b49414/resnest/torch/resnest.py#L33">PyTorch</a></td>
+      <td>105</td>
+      <td></td>
+      <td></td>
+      <td>81.03</td>
       <td>-</td>
-      <td>-</td>
-      <td>56.55</td>
-      <td>79.09</td>
-      <td>-</td>
-      <td>-</td>
-      <td>-</td>
-      <td>43</td>
-      <td>34</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-Reference: https://arxiv.org/abs/1404.5997
+Reference: https://arxiv.org/abs/2004.08955
 
 Inputs:
 * **224x224**
