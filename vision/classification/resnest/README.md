@@ -45,8 +45,8 @@
       <td>185</td>
       <td></td>
       <td></td>
-      <td>82.83</td>
-      <td></td>
+      <td>82.82</td>
+      <td>96.32</td>
       <td></td>
       <td></td>
       <td>-</td>
