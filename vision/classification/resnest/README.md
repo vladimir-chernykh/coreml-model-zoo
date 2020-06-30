@@ -4,6 +4,7 @@
       <td rowspan=3 align="center"><b>Model</b></td>
       <td rowspan=3 align="center"><b>Source</b></td>
       <td rowspan=3 align="center"><b>Size, MB</b></td>
+      <td rowspan=3 align="center"><b>Input, px</b></td>
       <td colspan=4 align="center"><b>Quality: Accuracy, %</b></td>
 <!--       <td rowspan=11 align="center"></td> -->
       <td colspan=5 align="center"><b>Latency, ms</b></td>
@@ -31,6 +32,7 @@
       <td>105</td>
       <td></td>
       <td></td>
+      <td></td>
       <td>81.03</td>
       <td>95.41</td>
       <td></td>
@@ -43,6 +45,7 @@
       <td><a href="https://dl.dropboxusercontent.com/s/ysi35jy86mbz51y/resnest101_torch.mlmodel?dl=0">ResNeSt101</a></td>
       <td><a href="https://github.com/zhanghang1989/ResNeSt/blob/5fe47e93bd7e098d15bc278d8ab4812b82b49414/resnest/torch/resnest.py#L43">PyTorch</a></td>
       <td>185</td>
+      <td></td>
       <td></td>
       <td></td>
       <td>82.82</td>
@@ -59,6 +62,7 @@
       <td>269</td>
       <td></td>
       <td></td>
+      <td></td>
       <td>83.84</td>
       <td>96.85</td>
       <td></td>
@@ -71,6 +75,7 @@
       <td><a href="https://dl.dropboxusercontent.com/s/pwwxz0t1pup8sc1/resnest269_torch.mlmodel?dl=0">ResNeSt269</a></td>
       <td><a href="https://github.com/zhanghang1989/ResNeSt/blob/5fe47e93bd7e098d15bc278d8ab4812b82b49414/resnest/torch/resnest.py#L63">PyTorch</a></td>
       <td>425</td>
+      <td></td>
       <td></td>
       <td></td>
       <td>84.54</td>
