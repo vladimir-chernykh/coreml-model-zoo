@@ -35,7 +35,7 @@
       <td>95.41</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>-</td>
       <td></td>
       <td></td>
     </tr>
@@ -49,7 +49,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>-</td>
       <td></td>
       <td></td>
     </tr>
@@ -63,7 +63,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>-</td>
       <td></td>
       <td></td>
     </tr>
@@ -77,7 +77,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>-</td>
       <td></td>
       <td></td>
     </tr>
