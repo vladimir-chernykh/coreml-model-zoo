@@ -40,6 +40,7 @@ All the necessary **preprocessing** steps are already **embedded** into the mode
 | [AlexNet](./vision/classification/alexnet) | ["One weird trick for parallelizing convolutional neural networks"](https://arxiv.org/abs/1404.5997) | 2012 |
 | [VGG](./vision/classification/vgg) | ["Very Deep Convolutional Networks for Large-Scale Image Recognition"](https://arxiv.org/abs/1409.1556) | 2014 |
 | [ResNetV1](./vision/classification/resnet_v1) | ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385) | 2015 |
+| [DenseNet](./vision/classification/densenet) | ["Densely Connected Convolutional Networks"](https://arxiv.org/abs/1608.06993) | 2018 |
 
 # Usage
 
