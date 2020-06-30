@@ -1,0 +1,11 @@
+{
+  "absolute_max": 1.1622905731201172e-06,
+  "absolute_99q": 1.0479707270860723e-08,
+  "absolute_median": 2.473825588822365e-10,
+  "absolute_mean": 1.61081403771135e-09,
+  "relative_max": 1.15052398541593e-05,
+  "relative_99q": 5.284240328364831e-06,
+  "relative_median": 1.3769156339549227e-06,
+  "relative_mean": 1.5434092119903653e-06,
+  "percentage_not_equal": 0.0
+}
