@@ -60,7 +60,7 @@
       <td></td>
       <td></td>
       <td>83.84</td>
-      <td></td>
+      <td>96.85</td>
       <td></td>
       <td></td>
       <td>-</td>
