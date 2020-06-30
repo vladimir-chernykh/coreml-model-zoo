@@ -78,8 +78,8 @@
       <td>416</td>
       <td></td>
       <td></td>
-      <td>84.54</td>
-      <td></td>
+      <td>84.53</td>
+      <td>96.98</td>
       <td></td>
       <td></td>
       <td>-</td>
