@@ -68,8 +68,8 @@
       <td>119</td>
       <td>100</td>
       <td>-</td>
-      <td></td>
-      <td></td>
+      <td>207</td>
+      <td>234</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/ysi35jy86mbz51y/resnest101_torch.mlmodel?dl=0">ResNeSt101</a></td>
