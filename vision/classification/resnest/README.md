@@ -35,11 +35,11 @@
       <td></td>
       <td>75.54</td>
       <td>92.57</td>
-      <td></td>
-      <td></td>
+      <td>33</td>
+      <td>84</td>
       <td>-</td>
-      <td></td>
-      <td></td>
+      <td>89</td>
+      <td>102</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/uk8mzft8grzsx2z/resnest26_torch.mlmodel?dl=0">ResNeSt26</a></td>
@@ -50,11 +50,11 @@
       <td></td>
       <td>78.63</td>
       <td>94.38</td>
-      <td></td>
-      <td></td>
+      <td>50</td>
+      <td>106</td>
       <td>-</td>
-      <td></td>
-      <td></td>
+      <td>197</td>
+      <td>128</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/8k33evt5b2nhp5o/resnest50_torch.mlmodel?dl=0">ResNeSt50</a></td>
@@ -65,8 +65,8 @@
       <td></td>
       <td>81.03</td>
       <td>95.41</td>
-      <td></td>
-      <td></td>
+      <td>119</td>
+      <td>100</td>
       <td>-</td>
       <td></td>
       <td></td>
