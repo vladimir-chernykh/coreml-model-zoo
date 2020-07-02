@@ -27,11 +27,11 @@
       <td><b>GPU</b></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/?dl=0">ResNeSt14</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/89s63fm9owz4kjz/resnest14_torch.mlmodel?dl=0">ResNeSt14</a></td>
       <td><a href="https://github.com/dmlc/gluon-cv/blob/04baf39d2441bd23e7809032718d1d99ac5bb256/gluoncv/model_zoo/resnest.py#L348">MXNet</a></td>
       <td></td>
       <td>224</td>
-      <td></td>
+      <td>41</td>
       <td></td>
       <td>75.54</td>
       <td>92.57</td>
@@ -42,9 +42,9 @@
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/?dl=0">ResNeSt26</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/uk8mzft8grzsx2z/resnest26_torch.mlmodel?dl=0">ResNeSt26</a></td>
       <td><a href="https://github.com/dmlc/gluon-cv/blob/04baf39d2441bd23e7809032718d1d99ac5bb256/gluoncv/model_zoo/resnest.py#L383">MXNet</a></td>
-      <td></td>
+      <td>65</td>
       <td>224</td>
       <td></td>
       <td></td>
