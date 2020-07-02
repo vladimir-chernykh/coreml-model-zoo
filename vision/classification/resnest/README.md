@@ -83,8 +83,8 @@
       <td></td>
       <td></td>
       <td>-</td>
-      <td></td>
-      <td></td>
+      <td>694</td>
+      <td>486</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/ceqvmmrgql43bq0/resnest200_torch.mlmodel?dl=0">ResNeSt200</a></td>
