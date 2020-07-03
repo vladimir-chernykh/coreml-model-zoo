@@ -26,23 +26,37 @@
       <td><b>GPU</b></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/b13lpwfbiocvjnq/alexnet_torchvision.mlmodel?dl=0">AlexNet</a></td>
-      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/alexnet.py#L52">PyTorch</a></td>
-      <td>241</td>
+      <td><a href="https://dl.dropboxusercontent.com/s/zku38e1556l9ynu/mobilenet_v2_torchvision.mlmodel?dl=0">AlexNet</a></td>
+      <td><a href="https://github.com/pytorch/vision/blob/7aea80c9497ff78353fef1d9699490c5da6f41b6/torchvision/models/mobilenet.py#L163">PyTorch</a></td>
+      <td>14</td>
       <td></td>
       <td></td>
-      <td>56.55</td>
-      <td>79.09</td>
-      <td>15</td>
-      <td>20</td>
-      <td>-</td>
-      <td>43</td>
-      <td>34</td>
+      <td>71.88</td>
+      <td>90.29</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/rufxuopv746j2po/mobilenet_v2_keras_applications.mlmodel?dl=0">AlexNet</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>14</td>
+      <td></td>
+      <td></td>
+      <td>71.30</td>
+      <td>90.10</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-Reference: https://arxiv.org/abs/1404.5997
+Reference: https://arxiv.org/abs/1801.04381
 
 Inputs:
 * **224x224**
