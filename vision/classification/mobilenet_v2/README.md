@@ -44,7 +44,7 @@
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://dl.dropboxusercontent.com/s/rufxuopv746j2po/mobilenet_v2_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://dl.dropboxusercontent.com/s/4ouyyfc6v0dlout/mobilenet_v2_1.0_224_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
       <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
       <td>14</td>
       <td>224</td>
@@ -53,6 +53,102 @@
       <td></td>
       <td>71.80</td>
       <td>91.00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/grgrvy0z60ln0fh/mobilenet_v2_1.4_224_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>24</td>
+      <td>224</td>
+      <td>1.4</td>
+      <td></td>
+      <td></td>
+      <td>75.00</td>
+      <td>92.50</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/xv9nwkxbf4h7g82/mobilenet_v2_1.3_224_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>21</td>
+      <td>224</td>
+      <td>1.3</td>
+      <td></td>
+      <td></td>
+      <td>74.40</td>
+      <td>92.10</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/fwdd6n12cdlhbwj/mobilenet_v2_1.0_192_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>14</td>
+      <td>192</td>
+      <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td>70.70</td>
+      <td>90.10</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/05d4mpf19a7ak65/mobilenet_v2_1.0_160_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>14</td>
+      <td>160</td>
+      <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td>68.80</td>
+      <td>89.00</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/iepr6mhwqd1hg89/mobilenet_v2_1.0_128_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>14</td>
+      <td>128</td>
+      <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td>65.30</td>
+      <td>86.90</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://dl.dropboxusercontent.com/s/xf6z0wsrion7cqy/mobilenet_v2_1.0_96_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
+      <td><a href="https://github.com/keras-team/keras-applications/blob/bc89834ed36935ab4a4994446e34ff81c0d8e1b7/keras_applications/mobilenet_v2.py#L127">Keras</a></td>
+      <td>14</td>
+      <td>96</td>
+      <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td>60.30</td>
+      <td>83.20</td>
       <td></td>
       <td></td>
       <td></td>
