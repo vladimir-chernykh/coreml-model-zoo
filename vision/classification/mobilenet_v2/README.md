@@ -5,7 +5,7 @@
       <td rowspan=3 align="center"><b>Source</b></td>
       <td rowspan=3 align="center"><b>Size, MB</b></td>
       <td rowspan=3 align="center"><b>Input, px</b></td>
-      <td rowspan=3 align="center"><b>Width multiplier</b></td>
+      <td rowspan=3 align="center"><b>Width mult.</b></td>
       <td colspan=4 align="center"><b>Quality: Accuracy, %</b></td>
 <!--       <td rowspan=11 align="center"></td> -->
       <td colspan=5 align="center"><b>Latency, ms</b></td>
