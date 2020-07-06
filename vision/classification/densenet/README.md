@@ -36,8 +36,8 @@
       <td>50</td>
       <td>62</td>
       <td>9</td>
-      <td></td>
-      <td></td>
+      <td>140</td>
+      <td>80</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/wj9i9f8ki9d3c69/densenet121_keras_applications.mlmodel?dl=0">DenseNet121</a></td>
