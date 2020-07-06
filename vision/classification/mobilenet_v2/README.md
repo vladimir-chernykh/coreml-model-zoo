@@ -213,9 +213,9 @@
       <td></td>
       <td>63.20</td>
       <td>85.30</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>7</td>
+      <td>9</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -229,9 +229,9 @@
       <td></td>
       <td>58.80</td>
       <td>81.60</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>6</td>
+      <td>8</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -245,9 +245,9 @@
       <td></td>
       <td>65.40</td>
       <td>86.40</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>9</td>
+      <td>10</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -261,9 +261,9 @@
       <td></td>
       <td>63.90</td>
       <td>85.40</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>7</td>
+      <td>9</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -277,9 +277,9 @@
       <td></td>
       <td>61.00</td>
       <td>83.20</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>6</td>
+      <td>8</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -293,9 +293,9 @@
       <td></td>
       <td>57.70</td>
       <td>80.80</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>7</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -309,9 +309,9 @@
       <td></td>
       <td>51.20</td>
       <td>75.80</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>3</td>
+      <td>6</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -325,9 +325,9 @@
       <td></td>
       <td>60.30</td>
       <td>82.90</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>6</td>
+      <td>9</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -341,9 +341,9 @@
       <td></td>
       <td>58.20</td>
       <td>81.20</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>8</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -357,9 +357,9 @@
       <td></td>
       <td>55.70</td>
       <td>79.10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>4</td>
+      <td>7</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
@@ -373,9 +373,9 @@
       <td></td>
       <td>50.80</td>
       <td>75.00</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>3</td>
+      <td>6</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
