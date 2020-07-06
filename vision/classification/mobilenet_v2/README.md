@@ -248,8 +248,8 @@
       <td>9</td>
       <td>10</td>
       <td>3</td>
-      <td></td>
-      <td></td>
+      <td>16</td>
+      <td>31</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/eedk7q5dolbrqh3/mobilenet_v2_0.5_192_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
@@ -264,8 +264,8 @@
       <td>7</td>
       <td>9</td>
       <td>3</td>
-      <td></td>
-      <td></td>
+      <td>13</td>
+      <td>27</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/k9xb1octgchwqk0/mobilenet_v2_0.5_160_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
@@ -280,8 +280,8 @@
       <td>6</td>
       <td>8</td>
       <td>2</td>
-      <td></td>
-      <td></td>
+      <td>11</td>
+      <td>28</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/dj0nv00jhkqognu/mobilenet_v2_0.5_128_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
@@ -296,8 +296,8 @@
       <td>5</td>
       <td>7</td>
       <td>2</td>
-      <td></td>
-      <td></td>
+      <td>9</td>
+      <td>20</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/2d1ahbpwvzzgb47/mobilenet_v2_0.5_96_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
@@ -312,8 +312,8 @@
       <td>3</td>
       <td>6</td>
       <td>2</td>
-      <td></td>
-      <td></td>
+      <td>7</td>
+      <td>18</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/1nm8fqmfl192wi7/mobilenet_v2_0.35_224_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
