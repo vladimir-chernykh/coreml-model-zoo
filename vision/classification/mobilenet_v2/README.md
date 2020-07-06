@@ -385,15 +385,15 @@
       <td>6.5</td>
       <td>96</td>
       <td>0.35</td>
-      <td></td>
-      <td></td>
+      <td>45.42</td>
+      <td>70.33</td>
       <td>45.50</td>
       <td>70.40</td>
-      <td>3</td>
-      <td>5</td>
       <td>2</td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>15</td>
     </tr>
   </tbody>
 </table>
