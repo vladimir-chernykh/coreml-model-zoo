@@ -69,9 +69,9 @@
       <td></td>
       <td>75.00</td>
       <td>92.50</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>29</td>
+      <td>27</td>
+      <td>6</td>
       <td></td>
       <td></td>
     </tr>
@@ -85,9 +85,9 @@
       <td></td>
       <td>74.40</td>
       <td>92.10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>26</td>
+      <td>26</td>
+      <td>5</td>
       <td></td>
       <td></td>
     </tr>
@@ -101,9 +101,9 @@
       <td></td>
       <td>70.70</td>
       <td>90.10</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>15</td>
+      <td>15</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -117,9 +117,9 @@
       <td></td>
       <td>68.80</td>
       <td>89.00</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>12</td>
+      <td>13</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -133,9 +133,9 @@
       <td></td>
       <td>65.30</td>
       <td>86.90</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>10</td>
+      <td>10</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -149,9 +149,9 @@
       <td></td>
       <td>60.30</td>
       <td>83.20</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>7</td>
+      <td>9</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -165,9 +165,9 @@
       <td></td>
       <td>69.80</td>
       <td>89.60</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>14</td>
+      <td>15</td>
+      <td>4</td>
       <td></td>
       <td></td>
     </tr>
@@ -181,9 +181,9 @@
       <td></td>
       <td>68.70</td>
       <td>88.90</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>12</td>
+      <td>13</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
@@ -197,9 +197,9 @@
       <td></td>
       <td>66.40</td>
       <td>87.30</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>9</td>
+      <td>11</td>
+      <td>3</td>
       <td></td>
       <td></td>
     </tr>
