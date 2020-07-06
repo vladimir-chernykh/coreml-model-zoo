@@ -120,8 +120,8 @@
       <td>129</td>
       <td>61</td>
       <td>10</td>
-      <td>-</td>
-      <td>-</td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
