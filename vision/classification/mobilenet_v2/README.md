@@ -72,8 +72,8 @@
       <td>29</td>
       <td>27</td>
       <td>6</td>
-      <td></td>
-      <td></td>
+      <td>54</td>
+      <td>64</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/xv9nwkxbf4h7g82/mobilenet_v2_1.3_224_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
@@ -88,8 +88,8 @@
       <td>26</td>
       <td>26</td>
       <td>5</td>
-      <td></td>
-      <td></td>
+      <td>49</td>
+      <td>55</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/fwdd6n12cdlhbwj/mobilenet_v2_1.0_192_keras_applications.mlmodel?dl=0">MobileNet_V2</a></td>
