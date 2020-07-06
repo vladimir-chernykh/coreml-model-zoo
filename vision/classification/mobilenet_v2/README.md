@@ -37,9 +37,9 @@
       <td></td>
       <td>71.88</td>
       <td>90.29</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>17</td>
+      <td>14</td>
+      <td>4</td>
       <td></td>
       <td></td>
     </tr>
@@ -53,9 +53,9 @@
       <td></td>
       <td>71.80</td>
       <td>91.00</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>18</td>
+      <td>17</td>
+      <td>4</td>
       <td></td>
       <td></td>
     </tr>
