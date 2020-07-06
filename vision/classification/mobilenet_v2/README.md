@@ -389,9 +389,9 @@
       <td></td>
       <td>45.50</td>
       <td>70.40</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>3</td>
+      <td>5</td>
+      <td>2</td>
       <td></td>
       <td></td>
     </tr>
