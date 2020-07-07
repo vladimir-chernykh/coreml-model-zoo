@@ -19,9 +19,12 @@ Currently only **Computer Vision** models are presented. In future, Natural Lang
 
 Each model has:
 * Model file in the format of **\*.mlmodel**
-* Model **size**
+* Model **size** in MB
+* **Input** size in pixels
 * **Quality metrics** both for source and converted versions
-* **Performance metrics** such as latency/RPS for different mobile devices (iPhone 7, iPhone 11 Pro) and accelerators (CPU, GPU, ANE)
+* **Performance metrics** such as latency/RPS for different mobile devices (iPhone 7, iPhone 11 Pro) and accelerators (CPU, GPU, ANE).
+
+For more info on how the performance is measured please look in the [coreml-performance](https://github.com/vladimir-chernykh/coreml-performance) repo.
 
 ## Computer Vision models
 
@@ -63,4 +66,4 @@ try! handler.perform([request])
 let results = emotionsRequest.results! as! [VNClassificationObservation]
 ```
 
-There are other ways to use raw CoreML model without any frameworks. One might find example of this in [coreml-performance](https://github.com/vladimir-chernykh/coreml-performance) repo.
+There are other ways to use raw CoreML model without any frameworks. One might find example of this in the [coreml-performance](https://github.com/vladimir-chernykh/coreml-performance) repo.
