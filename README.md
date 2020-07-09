@@ -24,7 +24,7 @@ Each model has:
 * **Quality metrics** both for source and converted versions
 * **Performance metrics** such as latency/RPS for different mobile devices (iPhone 7, iPhone 11 Pro) and accelerators (CPU, GPU, ANE).
 
-For more info on how the performance is measured please look in the [coreml-performance](https://github.com/vladimir-chernykh/coreml-performance) repo.
+For more info on how the performance is measured please look in the [**coreml-performance**](https://github.com/vladimir-chernykh/coreml-performance) repo.
 
 ## Computer Vision models
 
