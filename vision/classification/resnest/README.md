@@ -131,7 +131,3 @@ Dataset:
 Versions:
 * iOS 13.5.1
 * XCode 11.5
-
-Validation preprocessing ([code](https://github.com/zhanghang1989/ResNeSt/blob/5fe47e93bd7e098d15bc278d8ab4812b82b49414/scripts/torch/verify.py#L127)):
-* Central square crop from original image
-* Resize to *input* size
