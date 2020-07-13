@@ -139,7 +139,3 @@ Dataset:
 Versions:
 * iOS 13.5.1
 * XCode 11.5
-
-Validation preprocessing:
-* Resize to 256 max side while preserving the aspect ratio
-* Central crop of 224x224 region
