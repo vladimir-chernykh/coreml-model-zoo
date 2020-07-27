@@ -106,8 +106,8 @@
       <td>132</td>
       <td>65</td>
       <td>14</td>
-      <td></td>
-      <td></td>
+      <td>272</td>
+      <td>155</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/9fxmcibsogbiq8d/densenet201_keras_applications.mlmodel?dl=0">DenseNet201</a></td>
