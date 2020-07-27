@@ -64,8 +64,8 @@
       <td>195</td>
       <td>74</td>
       <td>16</td>
-      <td></td>
-      <td></td>
+      <td>378</td>
+      <td>210</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/grs1l8j06mza2pk/densenet169_torchvision.mlmodel?dl=0">DenseNet169</a></td>
