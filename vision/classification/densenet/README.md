@@ -92,8 +92,8 @@
       <td>91</td>
       <td>61</td>
       <td>7</td>
-      <td></td>
-      <td></td>
+      <td>190</td>
+      <td>106</td>
     </tr>
     <tr>
       <td><a href="https://dl.dropboxusercontent.com/s/sz6eo05n5drrhvv/densenet201_torchvision.mlmodel?dl=0">DenseNet201</a></td>
